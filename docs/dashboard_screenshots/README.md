@@ -5,7 +5,7 @@ This project includes five interactive Power BI dashboards built on the Olist Re
 ## Executive Overview
 Provides high-level business KPIs, revenue trends and sales performance.
 
-<img width="873" height="535" alt="image" src="https://github.com/user-attachments/assets/ac1ba9a5-248c-4f86-aee8-f98e27609b63" />
+<img width="976" height="535" alt="image" src="https://github.com/user-attachments/assets/ac1ba9a5-248c-4f86-aee8-f98e27609b63" />
 
 
 ## Customer Analysis
