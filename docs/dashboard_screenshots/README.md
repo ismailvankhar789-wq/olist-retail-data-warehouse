@@ -7,7 +7,6 @@ Provides high-level business KPIs, revenue trends and sales performance.
 
 <img width="968" height="548" alt="image" src="https://github.com/user-attachments/assets/bca0af9a-5e94-4d48-b5c4-eeb87b8e80f6" />
 
-
 ## Customer Analysis
 Analyzes customer distribution, revenue contribution and purchasing behaviour.
 <img width="976" height="532" alt="image" src="https://github.com/user-attachments/assets/965e5aeb-44cf-4a2e-a5f8-74c56af4d303" />
@@ -15,8 +14,7 @@ Analyzes customer distribution, revenue contribution and purchasing behaviour.
 
 ## Product Analysis
 Explores product categories, pricing, freight costs and revenue performance.
-![Uploading image.png…]()
-
+<img width="889" height="516" alt="image" src="https://github.com/user-attachments/assets/10284985-2304-435c-a16d-9b1722b20304" />
 
 
 ## Seller Analysis
