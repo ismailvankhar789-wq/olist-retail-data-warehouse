@@ -36,7 +36,21 @@ The complete workflow includes:
 - Git & GitHub
 
 ---
+## 📊 Power BI Dashboard
 
+This project includes an interactive Power BI dashboard with five pages:
+
+- Executive Overview
+- Customer Analysis
+- Product Analysis
+- Seller Analysis
+- Delivery & Operations
+
+Dashboard screenshots are available in:
+
+`docs/dashboard_screenshots/`
+
+---
 ## 📂 Project Structure
 
 ```text
@@ -48,17 +62,15 @@ README.md
 
 ---
 
-## 🚧 Current Progress
+## ✅ Project Status
 
 - [x] Project Initialization
-- [x] Raw Dataset Import
-- [ ] Bronze Layer
-- [ ] Silver Layer
-- [ ] Gold Layer
-- [ ] SQL Business Analysis
-- [ ] Power BI Dashboard
-- [ ] Documentation
-
+- [x] Bronze Layer
+- [x] Silver Layer
+- [x] Gold Layer
+- [x] SQL Business Analysis
+- [x] Power BI Dashboard (5 Pages)
+- [x] Documentation
 ---
 
 ## 📊 Dataset
@@ -92,4 +104,4 @@ The dataset contains information about:
 
 ## 📌 Status
 
-🚀 Project currently under development.
+✅ Project Completed
