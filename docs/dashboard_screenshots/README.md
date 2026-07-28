@@ -14,7 +14,7 @@ Analyzes customer distribution, revenue contribution and purchasing behaviour.
 
 ## Product Analysis
 Explores product categories, pricing, freight costs and revenue performance.
-<img width="889" height="516" alt="image" src="https://github.com/user-attachments/assets/10284985-2304-435c-a16d-9b1722b20304" />
+<img width="968" height="546" alt="image" src="https://github.com/user-attachments/assets/10284985-2304-435c-a16d-9b1722b20304" />
 
 
 ## Seller Analysis
