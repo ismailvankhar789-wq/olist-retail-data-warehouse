@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of a modern data warehou
 
 The complete workflow includes:
 
-- Bronze Layer (Raw Data)
+- Raw Import (dbo)
 - Silver Layer (Data Cleaning & Standardization)
 - Gold Layer (Dimensional Data Warehouse)
 - SQL Business Analysis
@@ -65,7 +65,7 @@ README.md
 ## ✅ Project Status
 
 - [x] Project Initialization
-- [x] Bronze Layer
+- [x] Raw Import (dbo)
 - [x] Silver Layer
 - [x] Gold Layer
 - [x] SQL Business Analysis
