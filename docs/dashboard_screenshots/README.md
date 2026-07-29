@@ -5,23 +5,26 @@ This project includes five interactive Power BI dashboards built on the Olist Re
 ## Executive Overview
 Provides high-level business KPIs, revenue trends and sales performance.
 
-<img width="972" height="530" alt="image" src="https://github.com/user-attachments/assets/bc0e0b7f-143a-4405-b497-41b646c5fa6e" />
+<img width="883" height="515" alt="image" src="https://github.com/user-attachments/assets/bb60d9df-634e-4cc9-9373-1b58e768bac2" />
 
 
 ## Customer Analysis
 Analyzes customer distribution, revenue contribution and purchasing behaviour.
-<img width="976" height="532" alt="image" src="https://github.com/user-attachments/assets/965e5aeb-44cf-4a2e-a5f8-74c56af4d303" />
+
+<img width="878" height="496" alt="image" src="https://github.com/user-attachments/assets/5ff355d0-d392-431b-9c38-c0bd04f5dc55" />
 
 
 ## Product Analysis
 Explores product categories, pricing, freight costs and revenue performance.
-<img width="968" height="546" alt="image" src="https://github.com/user-attachments/assets/10284985-2304-435c-a16d-9b1722b20304" />
+<img width="883" height="512" alt="image" src="https://github.com/user-attachments/assets/1aa3ff98-82bc-4601-afdd-4309d93b648d" />
 
 
 ## Seller Analysis
 Evaluates seller performance, revenue, geographic distribution and freight metrics.
-<img width="995" height="555" alt="image" src="https://github.com/user-attachments/assets/76531fae-1274-4b5b-aceb-3b225f42e170" />
+
+<img width="872" height="502" alt="image" src="https://github.com/user-attachments/assets/fd6ce650-8487-4e29-8122-c62de8b202ce" />
 
 ## Delivery & Operations
 Tracks delivery performance, approval time, delivery time and operational efficiency.
-<img width="987" height="553" alt="image" src="https://github.com/user-attachments/assets/8e56edf6-8a43-451f-a0ef-80e36e9f392c" />
+<img width="868" height="497" alt="image" src="https://github.com/user-attachments/assets/e3b4c67f-a1f3-443e-b864-67fe3f8de4ef" />
+
